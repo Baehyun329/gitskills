@@ -1,1 +1,2 @@
-# gitskills
+$ cd gitskills
+$ ls
